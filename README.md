@@ -1,8 +1,9 @@
 # ForgeBlog-AI
 
-> Autonomous multi-agent technical blog generation using LangGraph, OpenRouter, Tavily & Hugging Face FLUX.
+<img width="1358" height="1358" alt="image" src="https://github.com/user-attachments/assets/8b89614d-4c5a-4c41-af61-82e3f2b55d5b" />
 
-![Architecture](docs/architecture.png)
+
+> Autonomous multi-agent technical blog generation using LangGraph, OpenRouter, Tavily & Hugging Face FLUX.
 
 ## Overview
 
@@ -54,7 +55,6 @@ ForgeBlog AI is an end-to-end AI content generation system where multiple specia
                          ▼
              Markdown + Images Export
 ```
-<img width="680" height="410" alt="image" src="https://github.com/user-attachments/assets/c639f61b-456d-47f5-b425-22015e64d4e3" />
 
 ## Tech Stack
 
