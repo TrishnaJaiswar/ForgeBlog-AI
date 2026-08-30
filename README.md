@@ -60,9 +60,6 @@ The architecture is built with **LangGraph**, making every stage modular, parall
 ---
 
 ## Workflow
-
-![Workflow](workflow.png)
-
 The workflow begins with a user topic and progresses through routing, research, planning, parallel writing, image generation, and Markdown export.
 
 ---
