@@ -54,6 +54,7 @@ ForgeBlog AI is an end-to-end AI content generation system where multiple specia
                          ▼
              Markdown + Images Export
 ```
+<img width="680" height="410" alt="image" src="https://github.com/user-attachments/assets/c639f61b-456d-47f5-b425-22015e64d4e3" />
 
 ## Tech Stack
 
