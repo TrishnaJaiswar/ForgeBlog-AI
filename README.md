@@ -2,7 +2,8 @@
 
 > An autonomous Agentic AI platform that researches, writes, and illustrates technical blogs using LangGraph, OpenRouter, Tavily, and Hugging Face FLUX.1-dev.
 
-![Architecture](architecture.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e3115c6b-8c61-40b9-bb56-d6e9ceb5db4f" />
+
 
 ## What is ForgeBlog AI?
 
