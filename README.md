@@ -112,7 +112,9 @@ ForgeBlog-AI/
 
 ## Frontend
 
-![Frontend](frontend.png)
+<img width="932" height="386" alt="image" src="https://github.com/user-attachments/assets/6803bb4e-9eb1-4c0f-949c-0d09e5586114" />
+
+
 
 The Streamlit interface allows users to:
 
@@ -141,7 +143,8 @@ The Streamlit interface allows users to:
 
 ## Example Output
 
-![Generated Blog](output.png)
+<img width="908" height="412" alt="image" src="https://github.com/user-attachments/assets/2969bee0-38eb-412c-b025-c48957c2a3f1" />
+
 
 The exported Markdown automatically embeds generated diagrams:
 
